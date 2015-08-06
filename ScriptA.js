@@ -1,5 +1,5 @@
 var tilesetImage = new Image();
-tilesetImage.src = 'Assets/Media/Images/Tileset1.png';
+tilesetImage.src = 'Tileset1.png';
 tilesetImage.onload = drawImage;
 var tileSize = 32;       // The size of a tile (32×32)
 var rowTileCount = 20;   // The number of tiles in a row of our background
